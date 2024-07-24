@@ -25,7 +25,7 @@ import java.util.Map;
         private JPanel pinPanel; // Pin panel
         private JPanel buyCreditPanel; // Buy credit panel
         private JPanel buyDataPanel; // Buy data panel
-        private int balance = 1000;  // initial balance
+        public int balance = 1000;  // initial balance
 
         // Public class for the ATM_GUI method
         public ATM_GUI() {
@@ -223,11 +223,11 @@ import java.util.Map;
             });
 
             // Check Balance Button Action
-            checkBalanceButton.addActionListener(new ActionListener() {
-                public void actionPerformed(ActionEvent e) {
-                    JOptionPane.showMessageDialog(null, "Your balance is: " + balance);
-                }
-            });
+//            checkBalanceButton.addActionListener(new ActionListener() {
+//                public void actionPerformed(ActionEvent e) {
+//                    JOptionPane.showMessageDialog(null, "Your balance is: " + balance);
+//                }
+//            });
 
             // Buy Credit Button Action
             buyCreditButton.addActionListener(new ActionListener() {
