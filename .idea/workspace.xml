@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54a4b63d-98fc-4215-9eda-9efbcc164766" name="Changes" comment="" />
+    <list default="true" id="54a4b63d-98fc-4215-9eda-9efbcc164766" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/checkBalanceButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ATM_GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ATM_GUI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,11 +38,13 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ATM.executor": "Run",
     "Application.ATM_GUI.executor": "Run",
+    "JavaClassFindUsagesOptions.isSearchForTextOccurrences": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "AnthonysBranch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/HENEX/Desktop/everything JAVA/ATM_GUI/src",
     "onboarding.tips.debug.path": "C:/Users/HENEX/Desktop/everything JAVA/ATM_GUI/src/Main.java"
@@ -42,6 +54,21 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HENEX\Desktop\everything JAVA\ATM_GUI\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ATM's GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ATM's GUI" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
